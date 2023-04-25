@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+body div {
+    margin: 15% auto;
+}
+.parent h2 {
+    width: 245px;
+    color: hsl(218, 44%, 22%);
+}
+.parent p {
+    width: 245px;
+    height: 70px;
+    color: hsl(218, 44%, 22%)
+}
